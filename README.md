@@ -1,6 +1,6 @@
 ### This is your Project Submission Repo 
 [![Wield the Web](/images/wtw.jpeg)](https://wtwces.netlify.app/);
-<h1> Your Porject May include any type of webd template using whatever you have learnt during Wield the Web Event</h1>
+<h3> Your Porject May include any type of webd template using whatever you have learnt during Wield the Web Event</h3>
 
 - #### You can visit <a href="https://cool-front-end-templates.netlify.app/">last year project submission </a> for reference  
 <ul>
